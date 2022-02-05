@@ -19,13 +19,66 @@ Expectations and Goals
 
 This is an introductory-level course that assumes no prior knowledge of the history of women in science and engineering. Successful students will read/watch/listen to the course materials prior to the class in which they are discussed. Each student will be graded on the following components:
 
-| ACTIVITY | PERCENTAGE |
-| --- | --- |
-| Class participation, which includes regular attendance, in-class discussion, and group collaboration | 15% |
-| Written homework assignments | 20% |
-| Midterm essay (5–7 pages) plus class presentation, including a 60-second lightning introduction | 25% |
-| New or significantly enhanced Wikipedia article | 10% |
-| Final paper (10–15 pages) or project | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITY
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation, which includes regular attendance, in-class discussion, and group collaboration
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written homework assignments
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm essay (5–7 pages) plus class presentation, including a 60-second lightning introduction
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+New or significantly enhanced Wikipedia article
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper (10–15 pages) or project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Required Books
 --------------
