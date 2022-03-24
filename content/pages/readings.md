@@ -54,7 +54,7 @@ Intersectionalities
 {{< tdopen >}}
 
 
-Malcolm, Shirley Mahaley, Paula Quick Hall, and Janet Welsh Brown. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Double Bind: The Price of Being a Minority Woman in Science (PDF)](http://web.mit.edu/cortiz/www/Diversity/1975-DoubleBind.pdf)." Report of a Conference of Minority Women Scientists. American Association for the Advancement of Science. AAS Report No. 76-R-3, April 1976. 
+Malcolm, Shirley Mahaley, Paula Quick Hall, and Janet Welsh Brown. "[The Double Bind: The Price of Being a Minority Woman in Science (PDF)](http://web.mit.edu/cortiz/www/Diversity/1975-DoubleBind.pdf)." Report of a Conference of Minority Women Scientists. American Association for the Advancement of Science. AAS Report No. 76-R-3, April 1976. 
 
 Haynes, Douglas. "[Always the Exception: Women and Women of Color Scientists in Historical Perspective](https://www.aacu.org/publications-research/periodicals/always-exception-women-and-women-color-scientists-historical)." _Peer Review_ 16 no. 2 (2014).
 
@@ -236,7 +236,7 @@ Aschwanden, Christie. "[The Finkbeiner Test](https://web.archive.org/web/2017031
 
 Sullivan, Margaret. "[Gender Questions Arise in Obituary of Rocket Scientist and Her Beef Stroganoff](https://publiceditor.blogs.nytimes.com/2013/04/01/gender-questions-arise-in-obituary-of-rocket-scientist-and-her-beef-stroganoff/)." _The New York Times._ April 1, 2013. 
 
-Smith, Stacy et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Gender Roles and Occupations: A Look at Character Attributes and Character-Related Aspirations in Film and Television" (PDF - 1.3MB)](https://seejane.org/wp-content/uploads/full-study-gender-roles-and-occupations-v2.pdf). Geena Davis Institute for Gender in Media. 2012.
+Smith, Stacy et al. "[Gender Roles and Occupations: A Look at Character Attributes and Character-Related Aspirations in Film and Television" (PDF - 1.3MB)](https://seejane.org/wp-content/uploads/full-study-gender-roles-and-occupations-v2.pdf). Geena Davis Institute for Gender in Media. 2012.
 
 Ottaviani, Jim, and Maris Wicks. _Primates: The Fearless Science of Jane Goodall, Dian Fossey, and Biruté Galdikas_. First Second, 2013. ISBN: 9781596438651. 
 
@@ -350,7 +350,7 @@ Gornick, Vivian. _Women in Science: Then and Now. The Feminist Press,_ 2009\. IS
 
 MIT. "[Report on the Status of Women in Science and Engineering at MIT](http://web.mit.edu/fnl/women/women.html)."1999. 
 
-MIT. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Report on the Status of Women Faculty in the Schools of Science and Engineering at MIT." (PDF - 1.6MB)](http://news.mit.edu//sites/mit.edu.newsoffice/files/documents/women-report-2011.pdf). 2011. 
+MIT. "[Report on the Status of Women Faculty in the Schools of Science and Engineering at MIT." (PDF - 1.6MB)](http://news.mit.edu//sites/mit.edu.newsoffice/files/documents/women-report-2011.pdf). 2011. 
 
 Summers, Lawrence. "[Remarks at NBER Conference on Diversifying the Science and Engineering Workforce](https://www.harvard.edu/president/speech/2005/remarks-nber-conference-on-diversifying-science-engineering-workforce)." January 14, 2005. 
 
@@ -358,7 +358,7 @@ Humphries, Courtney. "[Measuring Up](https://www.technologyreview.com/s/608393/m
 
 Hill, Catherine. "[Why So Few? Women in Science, Technology, Engineering, and Mathematics](https://www.aauw.org/research/why-so-few/)." AAUW. 
 
-NSBE, SWE, and WEPAN. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Ignored Potential: A Collaborative Roadmap for Increasing African-American Women in Engineering." (PDF - 3.6MB)](http://www.nsbe.org/getattachment/News-Media/NSBE-News/ignored-potential/NSBE_IgnoredPotential_Whitepaper_TXT-FINAL.PDF.aspx). 2017.
+NSBE, SWE, and WEPAN. "[Ignored Potential: A Collaborative Roadmap for Increasing African-American Women in Engineering." (PDF - 3.6MB)](http://www.nsbe.org/getattachment/News-Media/NSBE-News/ignored-potential/NSBE_IgnoredPotential_Whitepaper_TXT-FINAL.PDF.aspx). 2017.
 
 de las Mercedez, Carmen. "[Patterns of Persistence of Latinas in Science, Technology, Engineering, and Mathematics (STEM) Degree Programs](https://repositories.lib.utexas.edu/handle/2152/46216)." The University of Texas at Austin. Dissertation. 2015.
 
