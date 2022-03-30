@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 91f0fa7e-9bde-2d6a-638a-710fed0b1cb8
 resourcetype: Image
 title: Maia.jpg
 uid: ca97affd-25f1-a6ce-28ca-8cec39bbcbec
